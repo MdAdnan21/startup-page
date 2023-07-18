@@ -108,6 +108,7 @@ p#para {
 }
 h2#meet{
   font-size: 35px;
+      font-family: math;
 }
 div#content1 {
   width: 35%;
@@ -157,6 +158,7 @@ p#\33 {
   margin-left: 70px;
   font-size: 38px;
   width: 75%;
+      font-family: system-ui;
 }
 #paragraph{
   margin-left: 70px;
@@ -221,4 +223,9 @@ h3#Get {
    color: aliceblue;
    height: 45vh;
    padding-top: 50px;
+}
+
+h2#headline {
+    color: black;
+    padding-bottom: 12px;
 }
