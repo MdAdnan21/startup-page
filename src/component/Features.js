@@ -18,6 +18,7 @@ const Features = () => {
           <h3>Customize & Monitoring</h3>
           <p id='2'>Get your blood tests delivered at home collect a sample from the your blood tests.</p>
         </div>
+      {/* <h1></h1> */}
         <div id='content3'>
         <img src={Images.logo} />
 
